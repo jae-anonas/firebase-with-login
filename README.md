@@ -1,4 +1,4 @@
 # firebase-with-login
 
-##Contents
-###Login Activity
+## Contents
+### Login Activity
